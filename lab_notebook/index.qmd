@@ -1,0 +1,10 @@
+---
+title: "kbay_habitat_mapping Lab Notebook"
+format: html
+---
+
+# 📘 kbay_habitat_mapping
+
+This is the lab notebook for **kbay_habitat_mapping**.
+
+- [Return to Central Lab Hub](../../lab_notebook_hub/index.qmd)
